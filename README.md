@@ -14,6 +14,7 @@ You can visit this app in : [oceDataApp](https://labgrs.shinyapps.io/oceData/)
 RStudio:
 
 ```sh
+library(shiny)
 runUrl('https://github.com/JoseLastra/oceDataApp/archive/master.zip')
 ```
 
