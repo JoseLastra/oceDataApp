@@ -21,14 +21,14 @@ runUrl('https://github.com/JoseLastra/oceDataApp/archive/master.zip')
 
 MSc. José A. Lastra – [@JoseLastra](https://twitter.com/JoseLas08799165) – jose.lastra@pucv.cl
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the GNU General Public License v3.0. See ``LICENSE`` for more information.
 
 ## Developed with 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [shiny](https://www.shinyapps.io/) - El framework web usado
-* [oce](https://dankelley.github.io/oce/) - Manejador de dependencias
+* [shiny](https://www.shinyapps.io/) 
+* [oce](https://dankelley.github.io/oce/) 
 
 ## Log 
 * Version 0.1.- May 2020: visualizing profiles from CTD and make sections views based on static data.
