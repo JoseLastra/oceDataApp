@@ -1,10 +1,6 @@
 # oceData app
 > Shiny app for oceanographic profiles and section data visualization.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Shiny app developed for undergraduate teaching course: Litoral and Oceanic Geoghraphy GEO 1012, Geography Institute, Pontifical Catholic University of Valparaíso.-
 
 This is version 1.0
