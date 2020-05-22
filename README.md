@@ -3,7 +3,6 @@
 
 Shiny app developed for undergraduate teaching course: Litoral and Oceanic Geoghraphy GEO 1012, Geography Institute, Pontifical Catholic University of Valparaíso.-
 
-This is version 1.0
 
 ![](header.png)
 
