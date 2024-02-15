@@ -1,11 +1,6 @@
 
 library(shiny)
-library(shinythemes)
-library(markdown)
-library(oce)
-library(dplyr)
-library(readxl)
-library(leaflet)
+pacman::p_load(shinythemes, markdown, dplyr, readxl, leaflet)
 
 #############################################################
 #User Interface
